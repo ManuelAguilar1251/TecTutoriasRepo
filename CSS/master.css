@@ -1,0 +1,16 @@
+body{
+  background:#28aa9a;
+}
+
+.wrapper{
+  margin: 0 auto;
+  width: 70% ;
+}
+
+.navegacion {
+  border-radius: 5px;
+  background: #e9ebd1;
+}
+.navegacion nav ul li {
+  display: inline;
+}
