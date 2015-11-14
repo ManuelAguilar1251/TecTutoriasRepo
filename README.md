@@ -8,7 +8,7 @@ Integrantes y roles del equipo de trabajo:
   Lider          Dario Fernando Morales Beytia
   Administrador  Luis Alberto Ortega Canabal
   Documentacion  Osmara Iveth Poot Raymundo
-  Tester         Esau Manuel Gomes ........
+  Tester         Esau Manuel Gomes
 --------------------------------------------------------------------------------
 Objetivo :
 
