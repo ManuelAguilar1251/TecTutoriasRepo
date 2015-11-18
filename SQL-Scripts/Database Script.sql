@@ -10,10 +10,7 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 -- Base de datos para simular los reportes de tutorias.
 
 -- -----------------------------------------------------
--- Schema dbtec
---
--- Base de datos para simular los reportes de tutorias.
--- -----------------------------------------------------
+
 CREATE SCHEMA IF NOT EXISTS `dbtec` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ;
 USE `dbtec` ;
 
