@@ -1,15 +1,15 @@
 # TecTutoriasRepo
+
 Repositorio creado con el fin de llevar a cabo el trabajo en equipo del proyecto
 de tutorias del Instituto Tecnologico de Campeche.
 
---------------------------------------------------------------------------------
 Integrantes y roles del equipo de trabajo:
 
   Lider          Dario Fernando Morales Beytia
   Administrador  Luis Alberto Ortega Canabal
   Documentacion  Osmara Iveth Poot Raymundo
   Test           Esau Manuel Lopez Aguilar
---------------------------------------------------------------------------------
+
 Objetivo :
 
   Dotar al Instituto Tecnologico de Campeche con una herramienta para mejorar
